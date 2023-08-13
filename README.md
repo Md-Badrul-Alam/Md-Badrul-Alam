@@ -1,8 +1,8 @@
 <!--Markdown-->
-
+<h1 align="center">Hi 👋, I'm Md.Badrul Alam</h1>
 <img src="./Black And Blue Modern Marketing Outdoor Banner (1).png" width="100%" height="370"/>
 
-<h1 align="center">Hi 👋, I'm Md.Badrul Alam</h1>
+
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-badrul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="md-badrul-alam" /> </p>

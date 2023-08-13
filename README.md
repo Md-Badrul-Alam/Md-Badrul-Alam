@@ -1,6 +1,6 @@
 <!--Markdown-->
 
-<img src="./image/BackgroundEraser_20220816_175554377~2.jpg" width="100%" height="600"/>
+<img src="./Black And Blue Modern Marketing Outdoor Banner (1).png" width="100%" height="600"/>
 
 <h1 align="center">Hi 👋, I'm Md.badrul Alam</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
